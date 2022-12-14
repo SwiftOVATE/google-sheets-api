@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/google-sheets-api/static/css/main.0bb5d36d.css",
+    "main.js": "/google-sheets-api/static/js/main.bee641ca.js",
+    "static/media/1.png": "/google-sheets-api/static/media/1.04978fbbedb22bdfb3c0.png",
+    "static/media/2.png": "/google-sheets-api/static/media/2.c4280150881eede5da65.png",
+    "index.html": "/google-sheets-api/index.html",
+    "main.0bb5d36d.css.map": "/google-sheets-api/static/css/main.0bb5d36d.css.map",
+    "main.bee641ca.js.map": "/google-sheets-api/static/js/main.bee641ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bb5d36d.css",
+    "static/js/main.bee641ca.js"
+  ]
+}
