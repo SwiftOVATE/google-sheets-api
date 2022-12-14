@@ -1,0 +1,53 @@
+:not(pre)>code[class*="language-"],
+pre[class*="language-"] {
+    background: var(--accentcode1) !important;
+    border: 1px solid var(--accentcode2) !important;
+    border-radius: 10px !important;
+    font-size: 20px !important;
+}
+
+:not(pre)>code[class*="language-"],
+pre[class*="language-"] ::selection {
+    background: var(--accentdark) !important;
+}
+
+.Code h1 {
+    margin-top: 75px;
+    color: var(--accent);
+}
+
+/* custom change */
+kbd {
+    background-color: var(--accentdim4);
+    border: 1px solid var(--accentdim0);
+    color: var(--accentdark);
+    font-size: 25px;
+    user-select: all;
+}
+
+.repoImg {
+    border-radius: 10px;
+    transition: 0.1s;
+}
+
+.repoImg:hover {
+    box-shadow: var(--shadowsmall);
+    transition: 0.2s;
+}
+
+#hrtLogo {
+    border: none;
+    border-radius: 0px;
+}
+
+#customNav {
+    background-color: rgba(255, 255, 255, 0) !important;
+}
+
+.btnnn {
+    font-size: 30px;
+}
+
+.blueBackground i {
+    margin-left: 10px !important;
+}
